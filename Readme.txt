@@ -9,7 +9,7 @@ Objective to learn:
 	Service Enumeration
 	Linux Enumeration
 
-<h1>Task1: Deploy the machine and connect to our network </h1>
+Task1: Deploy the machine and connect to our network
 
 1. Download openvpn file  and connect to openvpn using syntax
 2. sudo openvpn /path-to-file/file-name.ovpn
